@@ -13,5 +13,3 @@
 [알고스팟 : LIS](https://github.com/yoonware/Algorithm-Problem/blob/master/Algospot/LIS.java)
 
 [알고스팟 : WILDCARD](https://github.com/yoonware/Algorithm-Problem/blob/master/Algospot/WILDCARD.java)
-
-[알고스팟 : POLY]()
