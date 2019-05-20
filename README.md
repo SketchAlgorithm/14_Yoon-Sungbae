@@ -1,3 +1,10 @@
+# 2019.05.22
+[코드포스 : E 1141 Superhero Battle]()
+
+[백준 : 알고스팟]()
+
+[삼성 : 간단한 369게임](https://github.com/yoonware/Algorithm-Problem/blob/master/Expert%20Academy%20-%20D2%20%EA%B0%84%EB%8B%A8%ED%95%9C%20369%EA%B2%8C%EC%9E%84.java)
+
 # 2019.05.07
 [코드포스 : A 1141 Game 23](https://github.com/yoonware/Algorithm-Problem/blob/master/Codeforces%20-%20A%201141%20Game%2023.cpp)
 
