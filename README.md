@@ -1,3 +1,12 @@
+# 2019.05.29
+백준 : Maaaaaaaaaze
+
+[코드포스 : C 347 The Child and Toy](https://github.com/yoonware/Algorithm-Problem/blob/master/Codeforces%20-%20C%20437%20The%20Child%20and%20Toy.java)
+
+[삼성 : 파리 퇴치](https://github.com/yoonware/Algorithm-Problem/blob/master/Expert%20Academy%20-%20D2%20%ED%8C%8C%EB%A6%AC%20%ED%87%B4%EC%B9%98.java)
+
+[삼성 : 최빈수 구하기](https://github.com/yoonware/Algorithm-Problem/blob/master/Expert%20Academy%20-%20D2%20%EC%B5%9C%EB%B9%88%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java)
+
 # 2019.05.22
 [코드포스 : E 1141 Superhero Battle](https://github.com/yoonware/Algorithm-Problem/blob/master/Codeforces%20-%20E%201141%20Superhero%20Battle.java)
 
